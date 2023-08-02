@@ -1,6 +1,6 @@
 <template>
     <div
-        class="col my-1"
+        class="col my-2"
         v-if="item.show"
     >
         <div 
